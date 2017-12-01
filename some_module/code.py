@@ -3,6 +3,7 @@
 import numpy as np
 
 
+
 f = open(r"C:\Users\shint1\PyCharmProjects\WorkshopExample\data\6df.csv", 'r')
 c = 0
 ra, dec, z, quality, a_v, mag_b, mag_r = [], [], [], [], [], [], []
