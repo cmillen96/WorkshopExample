@@ -1,8 +1,7 @@
 # WorkshopExample
 
 [![Coverage Status](https://codecov.io/gh/cmillen96/WorkshopExample/branch/master/graph/badge.svg)](https://codecov.io/gh/cmillen96/WorkshopExample)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ea7ca374a79c4321952715a228a454f0)](https://www.codacy.com/app/cmillen96/WorkshopExample?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cmillen96/WorkshopExample&amp;utm_campaign=Badge_Grade)
-[![Build Status](https://img.shields.io/travis/cmillen96/WorkshopExample.svg)](https://travis-ci.org/cmillen96/WorkshopExample)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e8c177a7df2740d28d68b70f525c73b0)](https://www.codacy.com/app/cmillen96/WorkshopExample?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cmillen96/WorkshopExample&amp;utm_campaign=Badge_Grade)[![Build Status](https://img.shields.io/travis/cmillen96/WorkshopExample.svg)](https://travis-ci.org/cmillen96/WorkshopExample)
 [![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/cmillen96/abc/WorkshopExample/master/LICENSE)
 
 A small github repo used as an example for the coding workshop!
